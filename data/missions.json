@@ -1,0 +1,57 @@
+
+[
+  {
+    "id": "m1",
+    "mission_name": "Apollo 11",
+    "year": 1969,
+    "photo": "https://picsum.photos/seed/apollo11/400/300",
+    "objective": "First manned moon landing.",
+    "country": "USA",
+    "status": "Success"
+  },
+  {
+    "id": "m2",
+    "mission_name": "Voyager 1",
+    "year": 1977,
+    "photo": "https://picsum.photos/seed/voyager/400/300",
+    "objective": "Explore outer planets and interstellar space.",
+    "country": "USA",
+    "status": "Active"
+  },
+  {
+    "id": "m3",
+    "mission_name": "Mars Pathfinder",
+    "year": 1997,
+    "photo": "https://picsum.photos/seed/pathfinder/400/300",
+    "objective": "Land a rover on Mars.",
+    "country": "USA",
+    "status": "Success"
+  },
+  {
+    "id": "m4",
+    "mission_name": "Chandrayaan-3",
+    "year": 2023,
+    "photo": "https://picsum.photos/seed/chandra3/400/300",
+    "objective": "Soft lunar landing at the South Pole.",
+    "country": "India",
+    "status": "Success"
+  },
+  {
+    "id": "m5",
+    "mission_name": "Artemis I",
+    "year": 2022,
+    "photo": "https://picsum.photos/seed/artemis1/400/300",
+    "objective": "Test flight of Orion spacecraft and SLS.",
+    "country": "USA",
+    "status": "Success"
+  },
+  {
+    "id": "m6",
+    "mission_name": "Mars 2020 (Perseverance)",
+    "year": 2021,
+    "photo": "https://picsum.photos/seed/perseverance/400/300",
+    "objective": "Seek signs of ancient life and collect samples.",
+    "country": "USA",
+    "status": "Active"
+  }
+]

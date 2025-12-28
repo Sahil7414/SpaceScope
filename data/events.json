@@ -1,0 +1,47 @@
+
+[
+  {
+    "id": "e1",
+    "name": "Perseid Meteor Shower",
+    "date": "2024-08-12",
+    "location": "Worldwide (Northern Hemisphere focus)",
+    "type": "Meteor Shower",
+    "description": "One of the brightest and most visible meteor showers of the year.",
+    "visibility": "Excellent under dark skies after midnight.",
+    "image": "https://picsum.photos/seed/perseids/800/600",
+    "status": "Upcoming"
+  },
+  {
+    "id": "e2",
+    "name": "Partial Lunar Eclipse",
+    "date": "2024-09-18",
+    "location": "Americas, Europe, Africa",
+    "type": "Eclipse",
+    "description": "A small portion of the moon passes through Earth's shadow.",
+    "visibility": "Visible with the naked eye.",
+    "image": "https://picsum.photos/seed/eclipse/800/600",
+    "status": "Upcoming"
+  },
+  {
+    "id": "e3",
+    "name": "Jupiter at Opposition",
+    "date": "2024-12-07",
+    "location": "Visible Everywhere",
+    "type": "Conjunction",
+    "description": "Jupiter is at its closest point to Earth and fully illuminated by the Sun.",
+    "visibility": "Brightest object in the midnight sky after the moon.",
+    "image": "https://picsum.photos/seed/jupiter/800/600",
+    "status": "Upcoming"
+  },
+  {
+    "id": "e4",
+    "name": "Geminids Meteor Shower",
+    "date": "2024-12-14",
+    "location": "Worldwide",
+    "type": "Meteor Shower",
+    "description": "The 'King' of meteor showers, known for producing multi-colored meteors.",
+    "visibility": "Moderate visibility due to waxing gibbous moon.",
+    "image": "https://picsum.photos/seed/geminids/800/600",
+    "status": "Past"
+  }
+]

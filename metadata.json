@@ -1,0 +1,7 @@
+{
+  "name": "SpaceScope",
+  "description": "A visually stunning cosmic-themed application for exploring celestial events, space weather, and missions with a neon dark aesthetic.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
